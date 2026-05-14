@@ -11,7 +11,7 @@ report the next scheduled SpaceX launch.
 | **Student** | Aboubakar Hameed Sultan |
 | **Student ID** | 23059674 |
 | **Module** | Web Technology (5FTC2167) |
-| **Repository** | https://github.com/ab17hs/space-bot |
+| **Repository** | https://github.com/ab17hs/SpaceBot_Assignment |
 
 ---
 
@@ -67,8 +67,8 @@ SpaceBot/
 ## 3. Installation and Run Instructions
 
 ```bash
-git clone https://github.com/ab17hs/space-bot.git
-cd space-bot
+git clone https://github.com/ab17hs/SpaceBot_Assignment.git
+cd SpaceBot_Assignment
 
 python -m venv .venv
 .venv\Scripts\activate          # Windows
